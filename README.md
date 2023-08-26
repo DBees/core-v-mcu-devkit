@@ -1,5 +1,9 @@
 # core-v-mcu-devkit
-The CORE-V MCU DevKit is an evaluation platform for the OpenHW RISC-V CV32E40P core IP (v1.0.0).  More information can be found at the [CV32E40P repo](https://github.com/openhwgroup/cv32e40p0).
+The CORE-V MCU DevKit is an evaluation platform for the OpenHW RISC-V CV32E40P core IP (v1.0.0) as instantiated within OpenHW's CORE-V-MCU chip fabricated in Global Foundries 22FDX.  
+More information can be found at the [CV32E40P repo](https://github.com/openhwgroup/cv32e40p) and the [CORE-V-MCU repo](https://github.com/openhwgroup/core-v-mcu)
+
+The information presented in this README is a high level overview.
+For more detailed information please see the [CORE-V MCU DevKit User Manual](https://openhw-group-core-v-mcu-devkit.readthedocs-hosted.com/en/latest/doc-src/overview.html?next=https%3A%2F%2Fopenhw-group-core-v-mcu-devkit.readthedocs-hosted.com%2Fen%2Flatest%2Fdoc-src%2Foverview.html&ticket=ST-1693084227-4ekFlIvc7E0QtKBuhj0HhDzIO0RYnQeF)
 
 ## Organization
 
